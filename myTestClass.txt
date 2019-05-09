@@ -2,6 +2,10 @@ class myClass{
 
 main(){
 
+public show(){
+
+sysout("SHow method")
+}
 
 }
 
