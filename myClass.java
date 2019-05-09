@@ -1,6 +1,6 @@
 class myClass{
 
-public static void main(){
+public static void main(args String[]){
 
 System.out.println("hello git");
 
