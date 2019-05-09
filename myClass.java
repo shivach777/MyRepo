@@ -18,5 +18,7 @@ System.out.println("My method");
 void myMethod3(){
 System.out.println("My method");
 }
-
+public show(){
+show from master()
+}
 }
