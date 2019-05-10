@@ -21,4 +21,7 @@ System.out.println("My method");
 public show(){
 show from master()
 }
+public display(){
+display();
+}
 }
